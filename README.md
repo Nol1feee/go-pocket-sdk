@@ -20,7 +20,7 @@ func main() {
 		log.Fatal(err)
 	}
 
-	//infoUser = access token && uername
+	//infoUser = access token && username
     infoUser, err := u.Authetication(req)
     if err != nil {
         log.Fatal(err)

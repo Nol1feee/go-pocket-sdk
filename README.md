@@ -16,9 +16,9 @@ func main() {
 
 	// link must be sent to the client
     autorizatioLink, err := u.GetAutorizationUrl(req)
-	if err != nil {
-		log.Fatal(err)
-	}
+    if err != nil {
+	log.Fatal(err)
+    }
 
 	//infoUser = access token && username
     infoUser, err := u.Authetication(req)

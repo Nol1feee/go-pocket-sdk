@@ -1,4 +1,4 @@
-module github.com/Nol1feee/pocket
+module github.com/Nol1feee/go-pocket-sdk
 
 go 1.20
 

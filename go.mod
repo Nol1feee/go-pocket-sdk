@@ -1,4 +1,4 @@
-module pocket
+module github.com/Nol1feee/pocket
 
 go 1.20
 

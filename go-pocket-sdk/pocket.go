@@ -1,4 +1,4 @@
-package kek
+package pocket
 
 import (
 	"bytes"
